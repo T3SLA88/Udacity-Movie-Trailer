@@ -36,7 +36,7 @@ To try out the project you can open the `fresh_tomatoes.html` file from the sour
 
 ### How to run the project
 To run this project
-- Open command prompt in the source folder and type `python entertainment_center.py`
+- Open command prompt in the source folder and type the command `python entertainment_center.py`
 - Just double click the `entertainment_center.py` if python is preinstalled.
 
 ### Bugs

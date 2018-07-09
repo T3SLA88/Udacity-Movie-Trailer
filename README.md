@@ -8,6 +8,7 @@ This project is a **Python** based project, it uses python class to build a stat
 - Required Libraries and Dependencies
 - File structure
 - Demo
+- How to run the project
 - Bugs
 - License
 
@@ -32,6 +33,11 @@ The file structure of the source file is as shown below
 
 ### Demo
 To try out the project you can open the `fresh_tomatoes.html` file from the source with your browser.
+
+### How to run the project
+To run this project
+- Open command prompt in the source folder and type `python entertainment_center.py`
+- Just double click the `entertainment_center.py` if python is preinstalled.
 
 ### Bugs
 There are no know Bugs as of now, but if you come accross any please open an [issue](https://github.com/T3SLA88/Udacity-Movie-Trailer/issues/new)
